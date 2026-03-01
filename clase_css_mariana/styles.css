@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+    
+}
+p{
+    color: antiquewhite;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color: aquamarine;
+}
+.clase1{
+    font-size: 20px;
+    color: bisque;
+}
+#abc{
+    font-size: 30px;
+    color: blueviolet;
+} 
